@@ -1,0 +1,52 @@
+{
+"fruits": [
+    {
+        "name": "Apple",
+        "imageURL": "https://thumbs.dreamstime.com/b/ripe-red-apple-fruit-apple-half-green-leaf-isolated-white-background-apples-leaf-clipping-path-red-apple-121347277.jpg",
+        "brand": "Fuji",
+        "price": 2.06
+    },
+    {
+        "name": "Mango ",
+        "imageURL": "https://thediplomat.com/wp-content/uploads/2016/04/sizes/td-story-s-2/thediplomat_2016-04-26_19-22-13.jpg",
+        "brand": " Alphonsos Hapoos",
+        "price": 2.04
+    },
+    {
+        "name": "Orange ",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Orange-Fruit-Pieces.jpg/1200px-Orange-Fruit-Pieces.jpg",
+        "brand": "Tangerines",
+        "price": 2
+    },
+    {
+        "name": " Grapes ",
+        "imageURL": "https://urbanbazaar.com.np/wp-content/uploads/2021/05/grapes.jpg",
+        "brand": "Moon Balls",
+        "price": 1.07
+    },
+    {
+        "name": "Strawberry ",
+        "imageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/streams/2014/July/140707/1D274906288130-beauty-uses-strawberries.jpg",
+        "brand": "Honeoye",
+        "price": 3
+    },
+    {
+        "name": "Banana ",
+        "imageURL": "https://www.collinsdictionary.com/images/full/banana_64728013.jpg",
+        "brand": "Cavendish",
+        "price": 0.08
+    },
+    {
+        "name": "Avocado  ",
+        "imageURL": "https://daily.jstor.org/wp-content/uploads/2017/05/avocado_1050x700.jpg",
+        "brand": " Hass",
+        "price": 3 
+    },
+    {
+        "name": " Pineapple ",
+        "imageURL": "https://i.ndtvimg.com/mt/cooks/2014-11/pineapple-annanas.jpg",
+        "brand": "Abacaxi ",
+        "price": 2.06
+    }
+]
+}

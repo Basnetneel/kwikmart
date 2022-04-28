@@ -1,0 +1,48 @@
+{
+    "name": "Silk & Smooth",
+    "imageURL": "https://www.tresemme.com/content/dam/unilever/tresemme/united_states_of_america/pack_shot/022400393681.01-58140429-png.png",
+    "brand": "TRESemme",
+    "price": 18
+},
+{
+    "name": "shampoo",
+    "imageURL": "https://www.dove.com/content/dam/unilever/dove/united_kingdom/english/pack_shot/8712561888349.01-38757213-png.png",
+    "brand": "Dove",
+    "price": 12
+},
+{
+    "name": "After Dark",
+    "imageURL": "https://ustraa.cdn.imgeng.in/media/catalog/product/f/r/fragrance_bestfragrance.jpg",
+    "brand": "Ustraa",
+    "price": 28
+},
+{
+    "name": "Rouge",
+    "imageURL": "https://5.imimg.com/data5/EW/BG/CL/ANDROID-84257080/1554527530874-jpg-500x500.jpg",
+    "brand": "AXE Signature",
+    "price": 8
+},
+{
+    "name": "Face Wash",
+    "imageURL": "https://beautysuppliers.org/wp-content/uploads/2021/09/61LmABL6JKL._SL1500_.jpg",
+    "brand": "Nivea",
+    "price": 6
+},
+{
+    "name": "Neem Face Wash ",
+    "imageURL": "https://m.media-amazon.com/images/I/71iB238C14L._SL1500_.jpg",
+    "brand": "Himalaya",
+    "price": 8
+},
+{
+    "name": "Cocoa Radiant ",
+    "imageURL": "https://images.heb.com/is/image/HEBGrocery/000967159",
+    "brand": "Vaseline",
+    "price": 12
+},
+{
+    "name": "Body Milk Lotion ",
+    "imageURL": "https://newassets.apollo247.com/pub/media/catalog/product/n/i/niv0083_1.jpg",
+    "brand": "Nivea",
+    "price": 14
+}

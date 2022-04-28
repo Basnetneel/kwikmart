@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "273819635593",
+    "project_id": "fruitapp-b35c4",
+    "storage_bucket": "fruitapp-b35c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273819635593:android:096dbfd4ac67bde1675b58",
+        "android_client_info": {
+          "package_name": "com.example.kwik_mart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273819635593-p0q4q1qmnfu6q5lq2sb5ogjl127gpahv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgfM3172Xte63Asz2IvhfixQ9H6BL_uGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273819635593-p0q4q1qmnfu6q5lq2sb5ogjl127gpahv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

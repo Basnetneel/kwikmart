@@ -1,0 +1,52 @@
+{
+    "beverage": [
+        {
+            "name": "Chilled Beer",
+            "imageURL": "https://cheers.com.np/uploads/products/2491357496298427038454864488329169447649.png",
+            "brand": "Mustang",
+            "price": 5
+        },
+        {
+            "name": "Diet Coke",
+            "imageURL": "https://www.ubuy.vn/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNjFyckluS3NNOEwuX1NMMTUwMF8uanBn.jpg",
+            "brand": " Coke",
+            "price": 2.03
+        },
+        {
+            "name": "Orange Fanta",
+            "imageURL": "https://cheers.com.np/uploads/products/38541399854568881481271981597874869447776.png",
+            "brand": "Fanta",
+            "price": 2.02
+        },
+        {
+            "name": " White Wine",
+            "imageURL": "https://images.vivino.com/thumbs/eUncFig1RhKgF7bfqC-bcw_pb_600x600.png",
+            "brand": "Sweet Bliss",
+            "price": 20
+        },
+        {
+            "name": "Red Wine",
+            "imageURL": "https://produits.bienmanger.com/35654-0w470h470_Morgon_Aoc_Organic_And_Added_Sulfite_Red_Wine_From_Beaujolais.jpg",
+            "brand": "Morgon",
+            "price": 23
+        },
+        {
+            "name": "Irish Whiskey",
+            "imageURL": "https://web-whisky-live.s3-eu-west-1.amazonaws.com/s3fs-public/styles/uc_product_full/public/329354-002.jpg?itok=Nj1tslvq",
+            "brand": "Teeling",
+            "price": 45
+        },
+        {
+            "name": "Black Chimney ",
+            "imageURL": "https://raksipasal.com/image/cache/catalog/whisky/old-durbar-black-chimney-1000ml-550x550h.png",
+            "brand": "Old Durbar",
+            "price": 28
+        },
+        {
+            "name": " Can Gorkha",
+            "imageURL": "https://www.himalmart.com/public/upload/product/extra/gorkha-strong-beer-can-330ml-60e57d03f2b3a.jpg",
+            "brand": "Gorkha Strong",
+            "price": 7.08
+        }
+    ]
+}

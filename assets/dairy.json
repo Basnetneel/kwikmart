@@ -1,0 +1,52 @@
+{
+    "dairy": [
+        {
+            "name": "Cheese Slices",
+            "imageURL": "https://www.bigbasket.com/media/uploads/p/xxl/124870_10-britannia-cheese-slices.jpg",
+            "brand": "Britannia",
+            "price": 5
+        },
+        {
+            "name": " Dairylea Cheddar ",
+            "imageURL": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/10729241_XL1_20210922.jpg?w=1200&q=70",
+            "brand": " Kraft",
+            "price": 9
+        },
+        {
+            "name": "Unsalted Butter ",
+            "imageURL":"https://images.heb.com/is/image/HEBGrocery/003539030",
+            "brand": "Hill Country Fare",
+            "price": 8
+        },
+        {
+            "name": " Greek Yogurt ",
+            "imageURL": "https://www.dairyfoods.com/ext/resources/Food-Photos/Cultured_Dairy/Hiland-Dairy-Greek-yogurt-peach-422.jpg?1377028433",
+            "brand": "Hiland",
+            "price": 6
+        },
+        {
+            "name": "Almond Milk ",
+            "imageURL": "https://silk.com/wp-content/uploads/2019/02/silk-original-almondmilk-4.png",
+            "brand": "Original",
+            "price": 3
+        },
+        {
+            "name": "Chocolate Ice Cream ",
+            "imageURL": "https://www.u-buy.jp/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvODFNNDRtTHloS0wuX1NMMTUwMF8uanBn.jpg",
+            "brand": "Magnum",
+            "price": 2.05
+        },
+        {
+            "name": "Vanilla Ice Cream  ",
+            "imageURL": "https://www.chocolate-brands.com/image/cache/catalog/Oreo/oreo-icecream-tub_480ml-700x700.jpg",
+            "brand": " Oreo",
+            "price": 6
+        },
+        {
+            "name": " Paneer ",
+            "imageURL": "https://www.justgotochef.com/img/1593601931-Golden%20Crown-Paneer%20(Sterilized)%20825g-Front.png",
+            "brand": "Golden Crown ",
+            "price": 15
+        }
+    ]
+    }
